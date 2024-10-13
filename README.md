@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://github.com/user-attachments/assets/d048a6e3-ce68-40fe-becc-765cebe4bf2" alt="Avatar photo of Monini">
+      <img height="200" alt="https://media.licdn.com/dms/image/v2/C4E03AQGXPqkFTt_ZCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1639435279872?e=1734566400&v=beta&t=3YeW4xJX--T91pNmTqUoyjdriLTgAgAQuN6N07zVOxI" alt="Avatar photo of Monini">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
