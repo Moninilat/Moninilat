@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+
 
 <div align="center">
 
@@ -12,11 +12,11 @@
 <br>
 <div>
   <div align=center>
-          ![Cartoonify (1)](https://github.com/user-attachments/assets/77fc1725-0267-40c0-89b0-79b68a607866)
+          
 
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Translator;Full+Stack+Developer+learner;AI+enthusiast;Cat+lover;Young+at+heart" alt="Typing SVG" /></a>
   </div>
 </div>
 
