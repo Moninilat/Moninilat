@@ -12,8 +12,7 @@
 <br>
 <div>
   <div align=center>
-      /*<img height="200" alt="" alt="Avatar photo of Monini">*/
-    ![Cartoonify (1)](https://github.com/user-attachments/assets/77fc1725-0267-40c0-89b0-79b68a607866)
+          ![Cartoonify (1)](https://github.com/user-attachments/assets/77fc1725-0267-40c0-89b0-79b68a607866)
 
   </div>
   <div align=center>
