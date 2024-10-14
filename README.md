@@ -50,8 +50,8 @@
   <br>
   One of my favorite quotes
   <blockquote>
-    “A person is either the effect of his environment or is able to have an effect upon his environment”.
-    <br><strong>L. Ron Hubbard</strong>
+    “Tell me and I forget, teach me and I may remember, involve me and I learn.”
+    <br><strong>— Benjamin Franklin</strong>
   </blockquote>
 </details>
 
